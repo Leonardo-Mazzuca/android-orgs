@@ -1,11 +1,8 @@
 package leonardomazzuca.com.github.orgs.ui.activity
 import android.content.Intent
 import android.os.Bundle
-import android.util.Log
-import android.view.inputmethod.EditorInfo
 import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.widget.addTextChangedListener
 import androidx.core.widget.doOnTextChanged
 import androidx.recyclerview.widget.RecyclerView
 import com.google.android.material.floatingactionbutton.FloatingActionButton
